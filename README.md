@@ -3,7 +3,7 @@
 <br><br>
 - :rocket: Atualmente estou ganhando experiência fazendo bootcamps na DIO, Rocketseat e Onebitcode.
 <br><br>
-- :chart_with_upwards_trend: Meu foco é sempre continuar estudando, pois um dia, pretendo ser um grande programador, que sente prazer em resolver seus problemas diários, ajudando empresas a crescerem! 
+- :chart_with_upwards_trend: Buscando conhecimento diáriamente para me tornar um ótimo programador. 
 
 <h2> :computer: &nbsp;Tecnologias que eu domino!</h2>
 
