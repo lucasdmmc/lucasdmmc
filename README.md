@@ -1,7 +1,7 @@
-<h1> Seja bem vindo. Meu nome é Lucas Carvalho! :wave: </h1>
+<h1> Sejam bem vindos. Fiquem à vontade. :wave: </h1>
 - 🔥 Desenvolvedor Fullstack Front-end
 <br><br>
-- :rocket: Atualmente estou ganhando experiência fazendo bootcamps na DIO, Rocketseat e Onebitcode.
+- :rocket: Aqui vocẽs vão poder acompanhar meu conhecimento do zero até o conhecimento atual.
 <br><br>
 - :chart_with_upwards_trend: Buscando conhecimento diáriamente para me tornar um ótimo programador. 
 
