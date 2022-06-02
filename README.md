@@ -16,10 +16,14 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 <img align="center" alt="GITHUB"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
+<img width="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKqURWN-F6IZfuQRgo-1O-7ta7jW4lMWdrQ&usqp=CAU"/>
+
 <h2> :gear: &nbsp;Github Analystics
 <p align="left">
 <br>  
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasdmmc&show_icons=true&theme=synthwave" alt="lucasdmmc's stats"/> <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdmmc&layout=compact&theme=synthwave" alt="lucasdmmc's"/>                     
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasdmmc&show_icons=true&theme=synthwave" alt="lucasdmmc's stats"/> 
+  
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdmmc&layout=compact&theme=synthwave" alt="lucasdmmc's"/>                     
 <br>
 
 ## <h2> :gear: &nbsp;Social Links!  
