@@ -1,5 +1,5 @@
 <h1> Sejam bem vindos. Fiquem à vontade. :wave: </h1>
-- 🔥 Desenvolvedor Fullstack Front-end
+- 🔥 Web Developer| Front-end
 <br><br>
 - :rocket: Aqui vocẽs vão poder acompanhar meu conhecimento do zero até o conhecimento atual.
 <br><br>
