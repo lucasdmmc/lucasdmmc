@@ -1,11 +1,12 @@
-<h1> Sejam bem vindos. Fiquem à vontade. :wave: </h1>
-- 🔥 Web Developer| Front-end
+<h1> Hi there! Welcome to my Github. :wave: </h1>
+- 🔥 Software Enginner
 <br><br>
-- :rocket: Aqui vocẽs vão poder acompanhar meu conhecimento do zero até o conhecimento atual.
+- :rocket: Here you'll be able to follow my growth since when i started to study.
 <br><br>
-- :chart_with_upwards_trend: Buscando conhecimento diáriamente para me tornar um ótimo programador. 
+- :chart_with_upwards_trend: I seek knowlledge daily to become a great software enginner. 
 
-<h2> :computer: &nbsp;Tecnologias que eu domino!</h2>
+<h2> :computer: &nbsp;
+my knowledge in some technologies</h2>
 
 <img align="center" alt="HTML5"
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
