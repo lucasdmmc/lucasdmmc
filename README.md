@@ -3,10 +3,10 @@
 <br><br>
 - :rocket: Here you'll be able to follow my growth since when i started to study.
 <br><br>
-- :chart_with_upwards_trend: I seek knowlledge daily to become a great software enginner. 
+- :chart_with_upwards_trend: I seek knowledge daily to become a great software enginner. 
 
 <h2> :computer: &nbsp;
-my knowledge in some technologies</h2>
+I have knowledge in these technologies</h2>
 
 <img align="center" alt="HTML5"
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
